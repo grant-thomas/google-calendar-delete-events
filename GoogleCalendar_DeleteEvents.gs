@@ -1,8 +1,6 @@
-// Google Calendar (Delete Events)
-
-function myFunction() {
+function deleteEvents() {
   // Specify the calendar ID
-  var calendarId = '';
+  var calendarId = 'abc123';
 
   // Specify the start and end date of the range
   var startDate = new Date('2023-12-21T00:00:00'); // Replace with your start date
